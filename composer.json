@@ -1,0 +1,26 @@
+{
+  "name": "ninazu/yii2-unwanted",
+  "description": "Google malware link checker",
+  "type": "library",
+  "keywords": [
+    "yii2",
+    "extension"
+  ],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Roman Usenko",
+      "email": "ninazu@ukr.net"
+    }
+  ],
+  "version": "1.0.0-dev",
+  "homepage": "https://github.com/ninazu/yii2-unwanted",
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "ninazu\\unwanted\\": ""
+    }
+  }
+}
